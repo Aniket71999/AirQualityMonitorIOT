@@ -1,5 +1,5 @@
-# AirQualityMonitorArduinoUno
-Air Quality Monitoring System using Arduino
+# Air Quality Monitor IOT
+Air Quality Monitoring System using Arduino Uno
 
 This Project is licensed under the terms of GNU (General Public License) v3.0
 
