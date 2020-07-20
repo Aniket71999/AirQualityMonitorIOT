@@ -1,7 +1,7 @@
 # AirQualityMonitorArduinoUno
 Air Quality Monitoring System using Arduino
 
-This Project is licensed under as GPL 3.0 (General Public License).
+This Project is licensed under as GNU (General Public License) v3.0
 
 Existing system:
 
@@ -21,7 +21,7 @@ Proposed system:
 There is a strong need to monitor air quality in real-time whether in home or office. Our proposed system offers a light weight, compact and low-cost device that monitors the quality of air in real-time and sends the status to android device.
 The proposed system is an IOT based device that collects the data through various sensors and processes them using an Arduino microcontroller board to determine the quality of air and then send the results to mobile via networking module via internet.
 
-License info : This Project is licensed under as GPL V3.0 (General Public License).
+License info : This Project is licensed under as GNU (General Public License) v3.0
 
 Hardware/Software requirement: 
 
