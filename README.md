@@ -26,16 +26,26 @@ License info : This Project is licensed under as GPL V3.0 (General Public Licens
 Hardware/Software requirement: 
 
 Hardware Requirement:
+
 	Arduino Uno Development Board
+	
 	Breadboard
+	
 	Jumper Wires
+	
 	DHT11 (Temperature and Humidity Sensor)
+	
 	MQ135 (Gas Sensor)
+	
 	Power Supply
+	
 	ESP8266 (Wi-Fi Module)
+	
 Software Requirement:
 	Arduino IDE
+	
 	Text Editor
+	
 	Android Studio
 
 Project scope: 
