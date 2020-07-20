@@ -41,6 +41,9 @@ Software Requirement:
 Project scope: 
 
 •	Develop a low cost and energy efficient device to monitor air quality.
+
 •	Develop a compact and light weight air quality monitoring device that fits regular households and offices.
+
 •	To accurately monitor air quality of surrounding environment.
+
 •	Provide real-time status to the user on mobile device using IO.
